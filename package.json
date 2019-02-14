@@ -4,7 +4,10 @@
   "description": "NYT newspaper hw for coding class",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.12"
   },
   "scripts": {
     "start": "node server.js",
